@@ -125,3 +125,5 @@ docs/
 *.jpg
 
 .idea/
+
+*.xlsx
