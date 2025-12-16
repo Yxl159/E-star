@@ -1,13 +1,36 @@
 # GENDIS [![Build Status](https://travis-ci.org/IBCNServices/GENDIS.svg?branch=master)](https://travis-ci.org/IBCNServices/GENDIS) [![PyPI version](https://badge.fury.io/py/GENDIS.svg)](https://badge.fury.io/py/GENDIS) [![Read The Docs](https://readthedocs.org/projects/gendis/badge/?version=latest)](https://gendis.readthedocs.io/en/latest/?badge=latest) [![Downloads](https://pepy.tech/badge/gendis)](https://pepy.tech/project/gendis)
+
+
+
+## E-star
+This repository contains the implementation of the model proposed in our paper "E-STAR: Enhanced Shapelet-Integrated Frequency and Temporal Model Representation for Advanced Time Series Classification" using PyTorch.
+
+---
+
+## Authors and Contributors
+This code was implemented by:
+- Dr. Wenjun Zhou (Email: [zhouwenjun@swpu.edu.cn]())
+- Dr. Ding
+
+From the Image Processing and Parallel Computing Laboratory, School of Computer Science, Southwest Petroleum University.
+
+---
+
 ## GENetic DIscovery of Shapelets 
 
-<p align="center">
-  <img src="GENDIS.png">
-</p>
 
-<p align="center">
-  <img src="evolving_shaps.gif">
-</p>
+
+[comment]: <> (<p align="center">)
+
+[comment]: <> (  <img src="GENDIS.png">)
+
+[comment]: <> (</p>)
+
+[comment]: <> (<p align="center">)
+
+[comment]: <> (  <img src="evolving_shaps.gif">)
+
+[comment]: <> (</p>)
 
 In the time series classification domain, shapelets are small subseries that are discriminative for a certain class. It has been shown that by projecting the original dataset to a distance space, where each axis corresponds to the distance to a certain shapelet, classifiers are able to achieve state-of-the-art results on a plethora of datasets.
 
