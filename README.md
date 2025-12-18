@@ -10,7 +10,7 @@ This repository contains the implementation of the model proposed in our paper "
 ## Authors and Contributors
 This code was implemented by:
 - Dr. Wenjun Zhou (Email: [zhouwenjun@swpu.edu.cn]())
-- Dr. Ding
+- Mr. Ding
 
 From the Image Processing and Parallel Computing Laboratory, School of Computer Science, Southwest Petroleum University.
 
